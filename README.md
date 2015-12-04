@@ -26,7 +26,7 @@ Geo3d.StanfordBunny.unindexed :: [{Geo3d.point3, Geo3d.point3, Geo3d.point3}]
 
 ## Dependencies
 * [elixir-geo-3d-utils](https://github.com/ttvd/elixir-geo-3d-utils)
-* [elixir-geo-3d-types](https://github.comttvd/elixir-geo-3d-types)
+* [elixir-geo-3d-types](https://github.com/ttvd/elixir-geo-3d-types)
 
 ## License
 
