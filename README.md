@@ -9,6 +9,21 @@ def deps do
   [{:geo_3d_stanford_bunny, "~> 0.1"}]
 end
 ```
+
+## Functions
+* Get all vertices:
+```
+Geo3d.StanfordBunny.vertices :: [{Geo3d.point3}]
+```
+* Get all indices:
+```
+Geo3d.StanfordBunny.indices :: [{integer, integer, integer}]
+```
+* Get unindexed data:
+```
+Geo3d.StanfordBunny.unindexed :: [{Geo3d.point3, Geo3d.point3, Geo3d.point3}]
+```
+
 ## License
 
 * Copyright Mykola Konyk, 2015
