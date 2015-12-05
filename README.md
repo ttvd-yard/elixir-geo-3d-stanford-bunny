@@ -19,10 +19,10 @@ Geo3d.StanfordBunny.vertices :: [{Geo3d.point3}]
 ```
 Geo3d.StanfordBunny.indices :: [{integer, integer, integer}]
 ```
-* Get unindexed data:
-```
-Geo3d.StanfordBunny.unindexed :: [{Geo3d.point3, Geo3d.point3, Geo3d.point3}]
-```
+## Other
+* For unindexed version, please see:
+  * [elixir-geo-3d-stanford-bunny-unindexed](https://github.com/ttvd/elixir-geo-3d-stanford-bunny-unindexed)
+
 
 ## Dependencies
 * [elixir-geo-3d-utils](https://github.com/ttvd/elixir-geo-3d-utils)
